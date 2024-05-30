@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Laravel**
 
-- 📫 How to reach me **ananthunalloor@gmail.com**
+- 📫 How to reach me **ananthukumar.dev@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/ananthunalloor](https://github.com/ananthunalloor)
 
